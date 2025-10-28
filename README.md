@@ -22,7 +22,7 @@ A minimal React app that uploads an image and uses a remote enhancement API to u
    npm install
 4. Add environment variable (recommended)
    - Create a `.env` in project root:
-     REACT_APP_API_KEY=your_api_key_here`
+     VITE_API_KEY=your_api_key_here`
 5. Start the dev server:
    npm start
    (or `npm run dev` if your template uses Vite)
